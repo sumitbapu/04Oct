@@ -11,10 +11,14 @@ void linuxgit(void){
 void androidgit(void){
     printf("GIT in ANDROID");
 }
+void rtosgit(void){
+    printf("GIT in ANDROID");
+}
 int main(){
     printf("Welcome to GITHUB Training");
     windowsgit();
     macgit();
     linuxgit();
     androidgit();
+    rtosgit();
 }
