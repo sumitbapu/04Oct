@@ -8,9 +8,13 @@ void macgit(void){
 void linuxgit(void){
     printf("GIT in LINUX");
 }
+void androidgit(void){
+    printf("GIT in ANDROID");
+}
 int main(){
     printf("Welcome to GITHUB Training");
     windowsgit();
     macgit();
     linuxgit();
+    androidgit();
 }
